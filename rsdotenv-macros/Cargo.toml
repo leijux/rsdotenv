@@ -1,6 +1,6 @@
 [package]
-name = "dotenv-rs"
-description = "rust dotenv"
+name = "rsdotenv-macros"
+description = "rust dotenv macros"
 authors.workspace = true
 version.workspace = true
 edition.workspace = true

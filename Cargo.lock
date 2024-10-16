@@ -3,9 +3,9 @@
 version = 3
 
 [[package]]
-name = "dotenv-macros"
+name = "rsdotenv"
 version = "0.1.0"
 
 [[package]]
-name = "dotenv-rs"
+name = "rsdotenv-macros"
 version = "0.1.0"
