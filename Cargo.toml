@@ -1,0 +1,16 @@
+[workspace]
+members = ["dotenv-macros", "dotenv-rs"]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.80.0"
+readme = "README.md"
+homepage = "https://github.com/leijux/dotenv-rs"
+repository = "https://github.com/leijux/dotenv-rs"
+keywords = ["dotenv", "env", "environment"]
+categories = ["config", "development-tools", "parsing", "filesystem"]
+license = "MIT"
+
+
