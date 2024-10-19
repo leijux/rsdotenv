@@ -12,4 +12,9 @@ keywords.workspace = true
 repository.workspace = true
 readme.workspace = true
 
+[[bin]]
+name = "rsdotenv"
+path = "./src/bin/main.rs"
+
 [dependencies]
+thiserror = "1"

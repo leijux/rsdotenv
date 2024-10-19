@@ -1,5 +1,5 @@
 [workspace]
-members = ["rsdotenv-macros", "rsdotenv"]
+members = ["rsdotenv-macros", "rsdotenv", "rsdotenv-codegen"]
 resolver = "2"
 
 [workspace.package]
